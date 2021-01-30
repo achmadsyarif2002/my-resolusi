@@ -4,3 +4,4 @@ Selv improvement 2021:
 -Lebih mahir python
 -Jaga nilai IPK
 -Lebih mawas diri
+-Hapus resolusi ini
