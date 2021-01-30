@@ -1,0 +1,4 @@
+Selv improvement 2021:
+-Bisa buat e-commerce multivendor dg flutter
+-Bisa bahasa inggris dengan lebih lancar
+-Lebih mahir python
